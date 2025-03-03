@@ -1,33 +1,33 @@
-ID;Name;Designator;Quantity;Info;Manufacturer Part;Manufacturer
-1;Resistor 150R;R13;1;;;
-2;Resistor 1k;R5,R6,R7,R24;4;;;
-3;Resistor 2k2;R8,R9;2;;;
-4;Resistor 4k7;R2;1;;;
-5;Resistor 6k8;R10;1;;;
-6;Resistor 10k;R12,R14,R17,R19,R21,R23;6;;;
-7;Resistor 47k;R11,R15,R18;3;;;
-8;Resistor 100k;R1,R20;2;;;
-9;Resistor 680k;R3;1;;;
-10;Potentiometer 500R;RP4;1;;PC-16SH10IP06501A;PIHER
-11;Potentiometer 1k;RP1,RP2;2;;PC-16SH10IP06102A;PIHER
-12;Potentiometer 10k;RP3;1;;PC-16SH10IP06103A;PIHER
-13;Potentiometer 10k;R16,R22;2;3296W;3296W-1-103LF;Bourns Inc.
-14;Capacitor 4n7;C13;1;polyester film;;
-15;Capacitor 10n;C10,C12;2;ceramic;;
-16;Capacitor 100n;C3,C4,C6,C7,C8;5;ceramic;;
-17;Capacitor 470n;C14;1;polyester film;;
-18;Capacitor 10u;C9,C11,C1,C2,C5;5;electrolytic;;
-19;2N3904;Q2,Q5,Q8;3;npn transistor;2N3904;
-20;2N3906;Q3,Q4,Q6,Q7;4;pnp transistor;2N3906;
-21;Diode 1N4448;D1,D2,D3;3;DO-35;1N4448;SEMTECH
-22;Zener Diode 5V1;U2;1;;BZX85C5V1-TR;
-23;Zener Diode 10V;U1;1;;BZX85C10-TR;
-24;LM741CN;U3;1;op-amp;LM741CN;
-25;LM7805CV;U4;1;5V linear voltage regulator;LM7805;
-26;LM1881;U5;1;video sync seperator;LM1881;
-27;IRFD9024;Q1;1;p-mosfet;IRFD9024PBF;
-28;LM6172IN;U7;1;Video amplifier;;
-29;RCA Connecor;JP1,JP4,JP5,JP6;4;RCA;CBP;econ connect
-30;DC Input Jack;DC1;1;2.1/5.5mm;072758;BKL Electronic
-31;Pin Header;J1,J2,J3,J4,JP2,JP3,U6;;;;
-32;Jumper;JP2,JP3,U6;3;;;
+ID,Name,Designator,Quantity,Info,Manufacturer Part,Manufacturer
+1,Resistor 150R,R13,1,,,
+2,Resistor 1k,R5;R6;R7;R24,4,,,
+3,Resistor 2k2,R8;R9,2,,,
+4,Resistor 4k7,R2,1,,,
+5,Resistor 6k8,R10,1,,,
+6,Resistor 10k,R12;R14;R17;R19;R21;R23,6,,,
+7,Resistor 47k,R11;R15;R18,3,,,
+8,Resistor 100k,R1;R20,2,,,
+9,Resistor 680k,R3,1,,,
+10,Potentiometer 500R,RP4,1,,PC-16SH10IP06501A,PIHER
+11,Potentiometer 1k,RP1;RP2,2,,PC-16SH10IP06102A,PIHER
+12,Potentiometer 10k,RP3,1,,PC-16SH10IP06103A,PIHER
+13,Potentiometer 10k,R16;R22,2,3296W,3296W-1-103LF,Bourns Inc.
+14,Capacitor 4n7,C13,1,polyester film,,
+15,Capacitor 10n,C10;C12,2,ceramic,,
+16,Capacitor 100n,C3;C4;C6;C7;C8,5,ceramic,,
+17,Capacitor 470n,C14,1,polyester film,,
+18,Capacitor 10u,C9;C11;C1;C2;C5,5,electrolytic,,
+19,2N3904,Q2;Q5;Q8,3,npn transistor,2N3904,
+20,2N3906,Q3;Q4;Q6;Q7,4,pnp transistor,2N3906,
+21,Diode 1N4448,D1;D2;D3,3,DO-35,1N4448,SEMTECH
+22,Zener Diode 5V1,U2,1,,BZX85C5V1-TR,
+23,Zener Diode 10V,U1,1,,BZX85C10-TR,
+24,LM741CN,U3,1,op-amp,LM741CN,
+25,LM7805CV,U4,1,5V linear voltage regulator,LM7805,
+26,LM1881,U5,1,video sync seperator,LM1881,
+27,IRFD9024,Q1,1,p-mosfet,IRFD9024PBF,
+28,LM6172IN,U7,1,Video amplifier,,
+29,RCA Connecor,JP1;JP4;JP5;JP6,4,RCA,CBP,econ connect
+30,DC Input Jack,DC1,1,2.1/5.5mm,072758,BKL Electronic
+31,Pin Header,J1;J2;J3;J4;JP2;JP3;U6,,,,
+32,Jumper,JP2;JP3;U6,3,,,
